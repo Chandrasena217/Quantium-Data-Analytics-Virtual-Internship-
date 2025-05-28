@@ -87,3 +87,6 @@ My goal is to become a data scientist who not only understands algorithms but al
 📊 Tools & Topics I’m exploring: Python • Pandas • NumPy • Scikit-learn • Matplotlib • SQL • Deep Learning
 
 Email - Chandrasena217@gmail.com
+---
+# Certificate 
+![certificate](https://github.com/Chandrasena217/Quantium-Data-Analytics-Virtual-Internship-/blob/main/quantium%20certificate.jpg)
